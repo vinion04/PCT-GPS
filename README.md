@@ -1,5 +1,6 @@
 # PCT-GPS
 Graph Traversal
+
 Using given data (node #, coordinates, street names, direction) representing points in Williamsport, PA, a graph is created.
 Within created graph, use either Dijkstra's or A* to find the shortest path through the graph given a start and end point.
 
